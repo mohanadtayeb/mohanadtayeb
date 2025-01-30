@@ -53,7 +53,6 @@ With a strong background in web technologies and a keen interest in automation t
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Mohanad Tayeb](https://www.linkedin.com/in/mohanad-tayeb-94a490159/)
-- **Website**: [mohanad-tayeb.com](https://mohanad-tayeb.com/)
 - **Email**: [mohanad_tayeb@hotmail.com](mailto:mohanad_tayeb@hotmail.com)
 
 I'm always open to connecting with fellow developers and discussing potential collaborations. Feel free to reach out!
