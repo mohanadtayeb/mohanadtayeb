@@ -97,8 +97,8 @@
 
 | Certification | Issuer | Status |
 |:-------------:|:------:|:------:|
-| 🏅 **ISTQB Certified Tester Foundation Level (CTFL)** | ISTQB | ✅ Current |
-| 📚 **Software Testing and Automation Specialization** | Coursera | ✅ 2024 |
+| 🏅 **ISTQB Certified Tester Foundation Level (CTFL)** | ISTQB | ✅ 2025 |
+| 📚 **Software Testing and Automation Specialization** | Coursera | ✅ 2025 |
 | ☕ **Red Hat Application Development I: Java EE (AD183)** | Red Hat | ✅ 2023 |
 | 🐧 **Red Hat System Administration I (RH124)** | Red Hat | ✅ 2023 |
 | 🎓 **Bachelor of Science in Software Engineering** | University of Jeddah | ✅ 2024 |
