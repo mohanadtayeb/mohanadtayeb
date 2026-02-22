@@ -1,31 +1,41 @@
 # Hi there, I'm Mohanad Tayeb! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3800&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;QA+Automation+Specialist;Game+Developer+(2D+Focus);ISTQB+Certified+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3800&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Test+Analyst;Frontend+Developer;Game+Developer+(2D+%26+3D)" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-blue?style=for-the-badge&logo=checkmarx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-QA%20%26%20Development-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Game_Dev-Godot_%26_Unity-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game_Dev-Unreal_Engine_%26_Godot-478CBF?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </div>
 
 ## 🚀 About Me
 
-I am a versatile **Software Engineer** with a unique edge: I don't just build software; I ensure it's unbreakable. My expertise spans **Full Stack Development**, **Advanced Test Automation**, and **Game Development**.
+I am a versatile **Software Engineer** with a unique edge: I don't just build software; I ensure it's unbreakable. My expertise spans **Frontend & Full Stack Development**, **Advanced Test Analysis**, and **2D/3D Game Development**.
 
-Whether I'm architecting a backend with **FastAPI**, automating complex test scenarios with **Cypress**, or scripting 2D mechanics in **Godot**, I bring a focus on performance, scalability, and code quality.
+Whether I'm crafting responsive frontends with **React and Svelte**, designing robust test scenarios as a Test Analyst, or building dark fantasy worlds in **Unreal Engine 5**, I bring a focus on performance, scalability, and quality.
 
-- 🔭 **QA & Automation:** Expert in Selenium, Playwright, Cypress, and API testing (Postman/K6).
-- 💻 **Full Stack:** Building robust web apps using React/Svelte and Express/FastAPI.
-- 🎮 **Game Dev:** Passionate about creating immersive 2D experiences using Godot and Unity.
+- 🔭 **QA & Testing:** Test Analyst expert in Selenium, Playwright, Cypress, and API testing (Postman/K6).
+- 💻 **Frontend & Full Stack:** Building dynamic, type-safe web apps using React/Svelte with TypeScript, supported by Express/FastAPI backends.
+- 🎮 **Game Dev:** Passionate about creating immersive experiences. Currently developing **Cleansing Blade**, a 3D dark fantasy action game in Unreal Engine 5, while maintaining strong roots in 2D Godot mechanics.
 - 📍 Based in **Jeddah, Saudi Arabia**
 
 ---
 
 ## 🛠️ The Arsenal (Tech Stack)
 
-### 🧪 QA & Test Automation
+### 🎮 Game Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3D_%26_2D_Game_Dev-Action/RPG-ff69b4?style=for-the-badge"/>
+</div>
+
+### 🧪 QA & Test Analysis
 <div align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -36,7 +46,7 @@ Whether I'm architecting a backend with **FastAPI**, automating complex test sce
   <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 </div>
 
-### 💻 Full Stack Development
+### 💻 Frontend & Full Stack Development
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
@@ -48,14 +58,6 @@ Whether I'm architecting a backend with **FastAPI**, automating complex test sce
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-### 🎮 Game Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/2D_Game_Dev-Pixel_Art-ff69b4?style=for-the-badge"/>
-</div>
-
 ### ⚙️ DevOps & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -65,7 +67,12 @@ Whether I'm architecting a backend with **FastAPI**, automating complex test sce
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects & Current Work
+
+### ⚔️ Cleansing Blade (In Development)
+> **3D Dark Fantasy Action Game built in Unreal Engine 5**
+- 🎮 Leveraging UE5 for high-fidelity 3D environments and combat mechanics.
+- 🗡️ Combining dark fantasy aesthetics with engaging action gameplay loops.
 
 ### 🔬 [E-commerce Testing Framework](https://github.com/mohanadtayeb/ecommerce-testing-framework)
 > **Comprehensive automated testing framework for SauceDemo e-commerce application**
@@ -140,5 +147,5 @@ Whether I'm architecting a backend with **FastAPI**, automating complex test sce
 
 <div align="center">
   <h3>💫 "Quality is not an act, it is a habit"</h3>
-  <p><em>Passionate about Test Automation, Full Stack Engineering, and Game Development</em></p>
+  <p><em>Passionate about Test Analysis, Frontend Engineering, and Game Development</em></p>
 </div>
